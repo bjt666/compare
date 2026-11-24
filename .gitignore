@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+outputs/
+weights/
+dataset/
+vendor/pugnet/
+vendor/mseonet/
